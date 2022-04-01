@@ -7,14 +7,14 @@
   justify-content: space-between;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .footer {
     padding-top: 88px;
     max-width: calc(100% - 24px * 2);
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 767px) {
   .footer {
     padding-top: 64px;
     flex-direction: column;

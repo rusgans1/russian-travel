@@ -2,13 +2,13 @@
   margin: 92px 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 999px) {
   .places {
     margin-top: 88px;
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 695px) {
   .places {
     margin-top: 64px;
   }
